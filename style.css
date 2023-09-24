@@ -1,0 +1,135 @@
+/* =================================
+  Base styles
+==================================== */
+
+/* --- Element styles --- */
+
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 16px;
+  text-align: center;
+}
+
+hr {
+  border-top: 4px solid #048c7f;
+}
+
+/* =================================
+Navigation
+==================================== */
+
+/* --- Class selectors --- */
+
+.nav-link {
+  margin: 0px 20px;
+}
+
+.navbar-brand {
+  margin-right: 50px;
+  font-weight: 500;
+  color: white;
+}
+
+.footer {
+  background-color: #048c7f;
+  color: white;
+}
+
+
+/* =================================
+Content
+==================================== */
+
+/* --- Class selectors --- */
+.arrow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 90px;
+}
+
+.footnote {
+  font-size: 12px;
+  color: grey;
+}
+
+ .experience-heading {
+   font-weight: bold;
+ }
+
+.main-img {
+  border: #048c7f 3px solid;
+  border-radius: 5%;
+  max-width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.experience-icon {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  display: block;
+}
+
+.gallery {
+  width: 300px;
+  height: 300px;
+  border: #048c7f 3px solid;
+  border-radius: 5%;
+  margin: auto;
+  display: block;
+}
+
+.section-title {
+  margin-top: -60px;
+  padding-top: 60px;
+  margin-bottom: 20px;
+}
+
+.gallery-text {
+  padding-top: 10px;
+  margin: auto;
+  display: block;
+  width: 300px;
+  text-align: center;
+}
+
+.banner {
+  border: 6px solid #048c7f;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  padding-bottom: 0.5rem;
+  display: block;
+
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+.quote {
+  color:grey;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+
+.quote-author {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  font-weight: bold;
+}
