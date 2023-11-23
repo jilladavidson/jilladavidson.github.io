@@ -24,6 +24,17 @@ hr {
 }
 
 /* =================================
+Cookie consent
+==================================== */
+
+.open_preferences_center {
+  display: absolute;
+  position: 0;
+  color: white;
+  background-color: #048c7f;
+}
+
+/* =================================
 Navigation
 ==================================== */
 
