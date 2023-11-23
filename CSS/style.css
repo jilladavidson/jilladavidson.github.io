@@ -29,13 +29,12 @@ Cookie consent
 
 .coookie-link {
   display: absolute;
-  position: 0;
+  bottom: 0;
   background-color: #048c7f;
 }
 
 #open_preferences_center {
   color: white;
-
 }
 
 /* =================================
