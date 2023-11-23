@@ -27,7 +27,7 @@ hr {
 Cookie consent
 ==================================== */
 
-.open_preferences_center {
+#open_preferences_center {
   display: absolute;
   position: 0;
   color: white;
