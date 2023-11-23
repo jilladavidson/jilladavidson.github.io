@@ -27,11 +27,15 @@ hr {
 Cookie consent
 ==================================== */
 
-#open_preferences_center {
+.coookie-link {
   display: absolute;
   position: 0;
-  color: white;
   background-color: #048c7f;
+}
+
+#open_preferences_center {
+  color: white;
+
 }
 
 /* =================================
